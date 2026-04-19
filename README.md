@@ -132,11 +132,6 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samar-fixit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=issues,prs" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samar-fixit&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
   <b>828 contributions (2025) · 1,677 contributions (2026)</b><br/>
   <sub>Includes significant private repository work (production systems)</sub>
 </p>
