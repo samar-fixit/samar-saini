@@ -129,21 +129,30 @@ Full-stack scheduling platform for clinics.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar-saini&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-saini&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-saini&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <b>828 contributions in 2025 &nbsp;·&nbsp; 1,677 contributions in 2026</b><br/>
-  <sub>Most contributions are on private repositories (production work at startup)</sub>
+  <b>828 contributions (2025) · 1,677 contributions (2026)</b><br/>
+  <sub>Majority from private production systems (backend + AI workloads)</sub>
 </p>
 
 ---
 
+## ⚙️ Work Focus
+
+- Backend systems (FastAPI, async pipelines, infra)
+- Generative AI integrations (LLMs, automation, workflows)
+- Production-first engineering (scalable, monitored, deployed)
+
+---
+
+## 📫 Contact
+
 <p align="center">
-  <i>Open to interesting AI/backend roles and collaborations. Let's build something cool.</i><br/>
   <a href="mailto:Samar310804@gmail.com">Samar310804@gmail.com</a>
 </p>
