@@ -132,8 +132,13 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar-saini&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-saini&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-saini&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <b>828 contributions in 2025 &nbsp;·&nbsp; 1,677 contributions in 2026</b><br/>
+  <sub>Most contributions are on private repositories (production work at startup)</sub>
 </p>
 
 ---
