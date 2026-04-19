@@ -132,22 +132,32 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar-fixit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-fixit&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samar-fixit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=issues,prs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samar-fixit&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
   <b>828 contributions (2025) · 1,677 contributions (2026)</b><br/>
-  <sub>Majority from private production systems (backend + AI workloads)</sub>
+  <sub>Includes significant private repository work (production systems)</sub>
 </p>
 
 ---
 
-## ⚙️ Work Focus
+## 🔒 Private Repository Work (Production)
 
-- Backend systems (FastAPI, async pipelines, infra)
-- Generative AI integrations (LLMs, automation, workflows)
-- Production-first engineering (scalable, monitored, deployed)
+- 2,000+ commits across private repositories
+- Built and maintained backend systems for real-world usage
+- Developed GenAI-powered workflows and automation pipelines
+- Worked on async processing, queue systems, and scalable APIs
+- Production deployments with monitoring, logging, and iteration
+
+---
+
+## ⚙️ Core Focus
+
+- Backend Engineering (FastAPI, async systems, infra)
+- Generative AI (LLMs, orchestration, applied workflows)
+- System design for production environments
 
 ---
 
