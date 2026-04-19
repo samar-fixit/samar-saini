@@ -132,27 +132,28 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <b>828 contributions (2025) · 1,677 contributions (2026)</b><br/>
-  <sub>Includes significant private repository work (production systems)</sub>
+  <b>446 PRs merged · 828 contributions (2025) · 1,677 contributions (2026)</b><br/>
+  <sub>Includes extensive private repository work (production backend + AI systems)</sub>
 </p>
 
 ---
 
 ## 🔒 Private Repository Work (Production)
 
-- 2,000+ commits across private repositories
-- Built and maintained backend systems for real-world usage
-- Developed GenAI-powered workflows and automation pipelines
-- Worked on async processing, queue systems, and scalable APIs
-- Production deployments with monitoring, logging, and iteration
+- 2,000+ commits across private repositories  
+- 446+ pull requests merged  
+- Backend systems powering real-world workflows  
+- GenAI integrations (LLMs, automation pipelines)  
+- Async processing, queues, and scalable APIs  
+- Production deployments with monitoring and iteration  
 
 ---
 
 ## ⚙️ Core Focus
 
-- Backend Engineering (FastAPI, async systems, infra)
-- Generative AI (LLMs, orchestration, applied workflows)
-- System design for production environments
+- Backend Engineering (FastAPI, async systems, infra)  
+- Generative AI (LLMs, orchestration, applied workflows)  
+- Scalable system design  
 
 ---
 
