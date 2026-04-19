@@ -4,7 +4,7 @@
   <b>Software Development Engineer · AI & Backend Systems · Hanumangarh, Rajasthan</b><br/>
   <a href="mailto:Samar310804@gmail.com">Samar310804@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/samar-saini-tech/">LinkedIn</a> ·
-  <a href="https://github.com/Samar-saini">GitHub</a>
+  <a href="https://github.com/Samar-fixit">GitHub</a>
 </p>
 
 ---
@@ -132,8 +132,8 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar-saini&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-saini&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-fixit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-fixit&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
