@@ -132,7 +132,7 @@ Full-stack scheduling platform for clinics.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <b>446 PRs merged · 828 contributions (2025) · 1,677 contributions (2026)</b><br/>
+  <b>450+ PRs merged · 828 contributions (2025) · 1,677 contributions (2026)</b><br/>
   <sub>Includes extensive private repository work (production backend + AI systems)</sub>
 </p>
 
@@ -141,7 +141,7 @@ Full-stack scheduling platform for clinics.
 ## 🔒 Private Repository Work (Production)
 
 - 2,000+ commits across private repositories  
-- 446+ pull requests merged  
+- 450++ pull requests merged on private repos 
 - Backend systems powering real-world workflows  
 - GenAI integrations (LLMs, automation pipelines)  
 - Async processing, queues, and scalable APIs  
